@@ -1,1 +1,5 @@
-hello world
+Update to stable Q blobs
+Switch to one plus 6 thermal engine
+Strip kernel of walt and inline with 4.19
+Improved bluetooth power consumption
+Migrate to clang 11.0.0 for kernel 
