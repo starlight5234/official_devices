@@ -1,13 +1,13 @@
 {
-	"error": false,
-	"donate_url": "https://www.paypal.me/ethanhalsall",
-	"website_url": "https://revengeos.com/",
-	"news_url": "https://t.me/revengeos845",
-	"datetime": 1583767930,
-	"filename": "RevengeOS-3.2-Q-OFFICIAL-dipper-20200309-1532.zip",
-	"id": "",
-	"size": 789643151,
-	"url": "https://dotsrc.dl.osdn.net/osdn/storage/g/r/re/revengeos/dipper/RevengeOS-3.2-Q-OFFICIAL-dipper-20200309-1532.zip",
-	"version": "3.1",
-	"filehash": ""
+    "error": false,
+    "donate_url": "https://www.paypal.me/ethanhalsall",
+    "website_url": "https://revengeos.com/",
+    "news_url": "https://t.me/revengeos845",
+    "datetime": 1588167655.775712,
+    "filename": "RevengeOS-3.2-Q-OFFICIAL-dipper-20200429-1252.zip",
+    "id": "",
+    "size": "787552723",
+    "url": "https://gensho.ftp.acc.umu.se/mirror/osdn.net/storage/g/r/re/revengeos/dipper/RevengeOS-3.2-Q-OFFICIAL-dipper-20200429-1252.zip",
+    "version": "3.2",
+    "filehash": "5462424cd7643cc72bc41c6187a6b641"
 }
