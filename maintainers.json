@@ -1,0 +1,19 @@
+{
+	"dipper":
+	{
+		"brand": "Xiaomi",
+		"name": "MI 8",
+		"maintainer": "Ethan Halsall",
+		"telegram": "ethanhalsall",
+		"xda_thread": ""
+	},
+
+	"platina":
+	{
+		"brand": "Xiaomi",
+		"name": "MI 8 Lite",
+		"maintainer": "Jago Gardiner",
+		"telegram": "nysascape",
+		"xda_thread": ""
+	}
+}
