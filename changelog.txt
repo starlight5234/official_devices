@@ -1,6 +1,6 @@
-- April security patches
-- Built-in screen recorder
-- Added internal audio recording
-- Fixed some graphical glitches in settings app
-- Fixed Android Auto (finally)
-- Fixed freeform windows crash
+April security patches
+Built-in screen recorder
+Added internal audio recording
+Fixed some graphical glitches in settings app
+Fixed Android Auto (finally)
+Fixed freeform windows crash
