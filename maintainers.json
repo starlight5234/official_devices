@@ -105,5 +105,14 @@
         "maintainer": "Kader Bava",
         "telegram": "Bava7325",
         "xda_thread": ""
+        },
+
+    "mido":
+    {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note 4X",
+        "maintainer": "Smokey",
+        "telegram": "smokey_18",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-revengeos-3-2-xiaomi-redmi-note-4x-t4095201"
     }
 }
