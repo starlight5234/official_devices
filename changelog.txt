@@ -1,6 +1,6 @@
-April security patches
-Built-in screen recorder
-Added internal audio recording
-Fixed some graphical glitches in settings app
-Fixed Android Auto (finally)
-Fixed freeform windows crash
+May security patches
+OTA app now in use
+Update translations for many lanaguages, if you would like to help translate head over to out crowdin page!
+New FOD implementation for supported devices
+Internal audio recording 
+Improve pop up camera hal for supported devices
