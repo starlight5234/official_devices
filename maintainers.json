@@ -12,8 +12,8 @@
     {
         "brand": "Xiaomi",
         "name": "MI 8 Lite",
-        "maintainer": "Jago Gardiner",
-        "telegram": "nysascape",
+        "maintainer": "Lunarixus",
+        "telegram": "TheOGLunarixus",
         "xda_thread": ""
     },
 
@@ -96,7 +96,7 @@
         "maintainer": "Giovanni Ricca",
         "telegram": "GiovanniRN5",
         "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-revengeos-3-0-redmi-s2-y2-ysl-t4051315"
-        },
+    },
 
     "RMX1921":
     {
@@ -105,7 +105,7 @@
         "maintainer": "Kader Bava",
         "telegram": "Bava7325",
         "xda_thread": ""
-        },
+    },
 
     "mido":
     {
