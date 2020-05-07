@@ -1,0 +1,9 @@
+Add overlay for MAC randomization toggle in developer settings
+Enable Smooth Streaming for secure video playback
+Powersaving in charger mode
+Address some cnd & dpmd denials
+Enable support for Pocket mode
+Add overlays for SystemInfo
+Fix rendering lags for real 
+Fixed Smartcharging
+Switch default thermal zone for CPU info overlay
