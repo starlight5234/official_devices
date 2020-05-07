@@ -1,0 +1,5 @@
+Switched to BloodMoon-KSB1 kernel
+Kernel upstream to 4.9.222
+Kernel compiled with Clang 11.0.1
+Fixed mic issues while gaming
+More Improvements
