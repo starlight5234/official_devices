@@ -1,1 +1,9 @@
-Minor device changes
+Upstream kernel to 4.9.222
+Upstream powerhal to be inline with pixel 4
+Switch Bonito brightness model
+Import Xiaomi changes to camera
+Switch to Blueline power profile
+Improve zram performance
+Add pixel power stats hal
+Add pixel atrace hal
+SElinux enforcing
