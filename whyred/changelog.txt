@@ -1,0 +1,6 @@
+Clean flash mandatory!
+Moved to LineageOS common device tree (thanks srfarias for that)
+Moved to LineageOS sdm660-common kernel
+Old camera blobs
+MIUI camera isn't included
+Fixed recording lag
