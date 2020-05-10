@@ -114,8 +114,10 @@
         "maintainer": "Smokey",
         "telegram": "smokey_18",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-revengeos-3-2-xiaomi-redmi-note-4x-t4095201"
-    }
+    },
+
     "ali":
+    {
         "brand": "Motorola",
         "name": "Moto G6",
         "maintainer": "Electimon",
