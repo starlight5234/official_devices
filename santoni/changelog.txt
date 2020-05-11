@@ -1,0 +1,7 @@
+Kernel upgrade to 4.9.222  thanks to protochuz,usman, and beingstargazer
+Updated FM, Sensors, QMI,/Radio/IMS, Wi-FI from  tissot-10.0.20.0.PDHMIXM
+Import Perf IOP blobs from from LA.UM.8.6.r1-04000-89xx.0
+Cleanup unused 32-bit blobs
+Updated post boot scripts, ueventd and config.fs from LA.UM.8.6.2.r1-07100-89xx.0
+Import data-ipa-cfg-mgr from LA.UM.8.6.2.r1-07100-89xx.0
+Updated privapp-permissions
