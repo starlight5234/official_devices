@@ -8,6 +8,15 @@
         "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-revengeos-2-4-dippper-t3942956"
     },
 
+    "chiron":
+    {
+        "brand": "Xiaomi",
+        "name": "MI Mix 2",
+        "maintainer": "Andrey S. Shidakov",
+        "telegram": "andr68rus",
+        "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-revengeos-3-1-t4050445"
+    },
+    
     "platina":
     {
         "brand": "Xiaomi",
