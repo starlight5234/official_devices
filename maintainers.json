@@ -26,6 +26,15 @@
         "xda_thread": ""
     },
 
+    "rosy":
+    {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi 5",
+        "maintainer": "PratyakshM",
+        "telegram": "pratyakshm",
+        "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-revengeos-3-2-xiaomi-redmi-5-rosy-t4098099"
+    },
+
     "vince":
     {
         "brand": "Xiaomi",
