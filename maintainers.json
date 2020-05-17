@@ -141,5 +141,14 @@
         "maintainer": "Electimon",
         "telegram": "electimon",
         "xda_thread": "https://forum.xda-developers.com/moto-g6/development/rom-revengeos-moto-g6-t4097553"
+    },
+    
+    "enchilada":
+    {
+        "brand": "OnePlus",
+        "name": "OnePlus6",
+        "maintainer": "coderastic",
+        "telegram": "coderastic",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-revengeos-3-2-t4067011"
     }
 }
