@@ -142,7 +142,7 @@
         "telegram": "electimon",
         "xda_thread": "https://forum.xda-developers.com/moto-g6/development/rom-revengeos-moto-g6-t4097553"
     },
-    
+
     "enchilada":
     {
         "brand": "OnePlus",
@@ -150,5 +150,14 @@
         "maintainer": "coderastic",
         "telegram": "coderastic",
         "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-revengeos-3-2-t4067011"
-    }
+    },
+
+     "X00T":
+    {
+        "brand": "ASUS",
+        "name": "ASUS Zenfone Max Pro M1",
+        "maintainer": "ChaitanayaMittal",
+        "telegram": "ChaitanayaMittal",
+        "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-revengeos-3-1-x00t-d-t4035501"
+     }
 }
