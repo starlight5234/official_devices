@@ -1,3 +1,4 @@
+Navigation buttons inversion
 Battery health monitor
 May security patches
 OTA app now in use
