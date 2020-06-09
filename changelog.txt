@@ -1,3 +1,4 @@
+Introduce RevengeOS Calculator
 Security patches updated to June
 Icon pack support in launcher
 OmniJaws at a glance weather on homescreen
