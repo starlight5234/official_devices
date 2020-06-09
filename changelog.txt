@@ -1,5 +1,5 @@
 Secuirty patched updated to June
 Icon pack support in launcher
 OmniJaws at a glance weather on homescreen
-Imporved launcher dark theme and overall UI
+Improved launcher dark theme and overall UI
 Fix wallpaper crash
