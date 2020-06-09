@@ -1,4 +1,4 @@
-Secuirty patched updated to June
+Security patches updated to June
 Icon pack support in launcher
 OmniJaws at a glance weather on homescreen
 Improved launcher dark theme and overall UI
