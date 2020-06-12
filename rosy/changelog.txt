@@ -1,6 +1,11 @@
-A few battery improvements
-Fixed idle battery drain
-Fixed issues with deep sleep
-Enabled additional 1080p FullHD resolution playback option for YouTube videos
-Fixed notification LED issues
-Using coral May build fingerprint
+Added Dirac
+Fixed front cam HDR and portrait issues with Google Camera
+Disabled ALMK 
+Some UI improvements 
+Switched to userspace LMKD
+Updated CarrierConfig from LA.UM.8.6.r1-04400-89xx.0
+Fixed FM Radio 
+Updated zRAM configuration
+Cleaned up media blobs
+Imported eSEPowerManager blobs from LA.UM.8.6.r1-04400-89xx.0
+Updated Audio, ADSP, ANT, Alarm, DRM, GPS, Gatekeeper, Keystone, Latency, Voice, Peripheral, TUI, Time, Thermal, Sensors, DPM, WiFi Display, Graphics, Media, Perf stack, Bluetooth stack from LA.UM.8.6.r1-04400-89xx.0
