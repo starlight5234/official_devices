@@ -1,5 +1,10 @@
-Switched to BloodMoon-KSB1 kernel
-Kernel upstream to 4.9.222
+Added NFC for EU/RU & supported devices. Thanks to @jigen_was_here
+Switched to BloodMoon-KSB2 kernel as default kernel.
+Kernel upstream to 4.9.227
 Kernel compiled with Clang 11.0.1
-Fixed mic issues while gaming
-More Improvements
+Selinux Enforcing.
+Fixed offline charging reboot.
+Fixed youtube vanced hdr video grey color.
+Updated aptx blobs. All Bluetooth Audio Codecs working Now.
+Added AOSP bluetooth audio HAL v2.
+And More improvements.
