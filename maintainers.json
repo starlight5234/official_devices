@@ -177,5 +177,14 @@
         "maintainer": "ajithzres",
         "telegram": "ajithzres",
         "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-revengeos-2-4-oneplus3-3t-t3941301"
-     }
+     },
+
+     "curtana":
+    {
+        "brand": "Redmi",
+        "name": "Redmi Note 9S",
+        "maintainer": "SebaUbuntu",
+        "telegram": "SebaUbuntu",
+        "xda_thread":""
+    }
 }
