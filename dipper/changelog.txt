@@ -1,5 +1,7 @@
-Move to OSS fingerprint hal
-Remove IOP and perf hal
-Fix gcam crashing
-Upstream to 4.9.224
-Added new volume panel
+Upstream kernel to 4.9.226
+Merge latest caf tag
+Fixed gcam crashes
+Update to MIUI V11.0.5.0.QDGMIXM global stable blobs
+Nuked extended volume panel for now
+Many memory improvements
+Added zswap to replace zram
