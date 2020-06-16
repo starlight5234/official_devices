@@ -1,3 +1,1 @@
-Upstream kernel to latest pie CAF tag
-Fix camera recording issue
-Fix some lag
+Some minor improvements
