@@ -1,19 +1,13 @@
-Clean flash mandatory
-Initial 4.9 Kernel
-Upstreamed Kernel to 4.9.223
-Fixed Bluetooth Mic
-Fixed Third Party Apps Mic Issue
-Fixed Camera Flash light for Third Party Apps
-Fixed FM
-Update qti priv-permission whitelist from  LA.UM.8.6.2.r1-06600-89xx.0
-Update qti_whitelist from LA.UM.8.6.2.r1-06600-89xx.0
-Update CNE from LA.UM.8.6.2.r1-07100-89xx.0
-Update DPM from LA.UM.8.6.2.r1-07100-89xx.0
-Update Radio from LA.UM.8.6.2.r1-07100-89xx.0
-Update GPS stack from LA.UM.8.6.2.r1-07100-89xx.0
-Update graphics and media from from LA.UM.8.6.2.r1-07100-89xx.0
-Update Peripheral manager from LA.UM.8.6.2.r1-07100-89xx.0
-Update Wi-Fi Display blobs from LA.UM.8.6.2.r1-07100-89xx.0
-Update Thermal engine From FThermal
-inbuilt GcamGO
-Misc improvement
+Set internal storage as default in DocumentsUI
+Fix Sound Control
+Fix offline charging
+Tune zram Performance
+Enable frameworks boost
+Upstream kernel to 4.9.227
+Update kernel.lnx.4.9.r11-rel from caf
+Update GCam Go
+Update blobs vulkan 1.1.128_treble
+Update blobs OpenGL-ES-3.2-V@454.0_treble
+Update Rootdir From LA.UM.8.6.2.r1-06900-89xx.0
+Update powerhint from LA.UM.8.6.2.r1-07100-89xx.0
+Misc optimization
