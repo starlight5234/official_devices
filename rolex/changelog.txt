@@ -1,7 +1,7 @@
-May security Patch 
-
-Selinux Enforcing 
-Switched to User Build
-Updated media codec
-Updated default network mode
-Fixed dark theme issues 
+Fixed FMRadio
+Improved gps accuracy
+Updated perf configs
+Updated carrier config
+Fixed more ram usage
+Made UI more smooth
+More fixes/updates :)
