@@ -1,13 +1,13 @@
 {
+    "donate_url": "https://paypal.me/electimon",
+    "datetime": 1593348986.2545683,
     "error": false,
     "website_url": "https://revengeos.com/",
-    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fali%2FRevengeOS-3.2-Q-OFFICIAL-ali-20200614-1354.zip",
-    "datetime": 1592274643.2233105,
-    "id": "",
-    "size": "699457907",
+    "size": "695930491",
+    "filehash": "6ed7d84fcde3a216078e95e3f56e81f1",
     "version": "3.2",
-    "filehash": "98e64e1d1c883cbbc43a88f75cf469fe",
+    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Fali%2FRevengeOS-3.2-Q-OFFICIAL-ali-20200628-1139.zip",
     "news_url": "https://t.me/RevengeOSNews",
-    "filename": "RevengeOS-3.2-Q-OFFICIAL-ali-20200614-1354.zip",
-    "donate_url": "https://paypal.me/electimon"
+    "filename": "RevengeOS-3.2-Q-OFFICIAL-ali-20200628-1139.zip",
+    "id": ""
 }
