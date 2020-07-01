@@ -1,10 +1,11 @@
-Added NFC for EU/RU & supported devices. Thanks to @jigen_was_here
-Switched to BloodMoon-KSB2 kernel as default kernel.
-Kernel upstream to 4.9.227
-Kernel compiled with Clang 11.0.1
-Selinux Enforcing.
-Fixed offline charging reboot.
-Fixed youtube vanced hdr video grey color.
-Updated aptx blobs. All Bluetooth Audio Codecs working Now.
-Added AOSP bluetooth audio HAL v2.
-And More improvements.
+Initial RUI firmware based build.
+So Clean Flash with format data must.
+Don't update via OTA updater.
+Added NFC for EU/RU & supported devices.
+New FOD extension implementation.
+Fod improved a lot.
+Fixed FOD in AOD.
+Fixed VoWiFi.
+Fixed bluetooth audio media.
+Fixed Vilte.
+Disable Bluetooth A2DP hardware offload in dev settings if Bluetooth audio not working.
