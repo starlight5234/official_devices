@@ -1,3 +1,4 @@
+Allow recording protected content
 Introduce RevengeOS Calculator
 Security patches updated to June
 Icon pack support in launcher
