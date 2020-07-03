@@ -1,3 +1,2 @@
-Fix camera issues
-Fix FM Radio
-Change to NOOP from BFQ for battery life
+Fix RIL
+Minor optimizations
