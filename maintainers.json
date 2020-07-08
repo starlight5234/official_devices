@@ -186,5 +186,14 @@
         "maintainer": "SebaUbuntu",
         "telegram": "SebaUbuntu",
         "xda_thread":""
+    },
+
+     "ginkgo":
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 8",
+        "maintainer": "Introdructor",
+        "telegram": "Introdructor",
+        "xda_thread":""
     }
 }
