@@ -1,11 +1,6 @@
-Initial RUI firmware based build.
-So Clean Flash with format data must.
-Don't update via OTA updater.
-Added NFC for EU/RU & supported devices.
-New FOD extension implementation.
-Fod improved a lot.
-Fixed FOD in AOD.
-Fixed VoWiFi.
-Fixed bluetooth audio media.
-Fixed Vilte.
-Disable Bluetooth A2DP hardware offload in dev settings if Bluetooth audio not working.
+Fixed Fod not registered for some users.
+Fixed whatsapp voice call mic issues.(Thanks to @officialpro)
+Kernel upstream to 4.9.230
+Kernel compiled with clang 11.0.3
+Switched to AOSP SurfaceFlinger.(More smooth now)
+Improved performance.
