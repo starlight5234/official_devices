@@ -1,2 +1,2 @@
-Fix RIL
-Minor optimizations
+Performance enchantments
+Improved data speeds
