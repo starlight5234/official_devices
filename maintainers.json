@@ -195,5 +195,14 @@
         "maintainer": "Introdructor",
         "telegram": "Introdructor",
         "xda_thread":"https://forum.xda-developers.com/redmi-note-8/development/rom-revengeos-3-0-redmi-note-8-8tginkgo-t4132113"
+    },
+        
+         "beryllium":
+    {
+        "brand": "Poco",
+        "name": "Poco F1",
+        "maintainer": "Deadpool1704",
+        "telegram": "Deadpool1704",
+        "xda_thread": ""
     }
 }
