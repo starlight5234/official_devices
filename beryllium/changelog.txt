@@ -1,0 +1,4 @@
+Update QP gallery
+Update Firefox Lite
+Some Misc Changes
+Some Fixes 
