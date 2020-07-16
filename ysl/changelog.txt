@@ -1,13 +1,7 @@
-Set internal storage as default in DocumentsUI
-Fix Sound Control
-Fix offline charging
-Tune zram Performance
-Enable frameworks boost
-Upstream kernel to 4.9.227
-Update kernel.lnx.4.9.r11-rel from caf
-Update GCam Go
-Update blobs vulkan 1.1.128_treble
-Update blobs OpenGL-ES-3.2-V@454.0_treble
-Update Rootdir From LA.UM.8.6.2.r1-06900-89xx.0
-Update powerhint from LA.UM.8.6.2.r1-07100-89xx.0
-Misc optimization
+Upstream kernel to 4.9.230
+Update and import blobs from LA.UM.8.6.2.r1-07600-89xx.0
+Update CarrierConfig From Violet
+Update some props 
+Fix gps issues
+Enable zygote preforking
+Misc improvement
