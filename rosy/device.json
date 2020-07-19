@@ -1,13 +1,13 @@
 {
     "error": false,
-    "donate_url": "https://www.paypal.me/pratyakshm",
+    "donate_url": "https://paypal.me/lucchetto",
     "website_url": "https://revengeos.com/",
     "news_url": "https://t.me/RevengeOSNews",
-    "datetime": 1591952235.3477314,
-    "filename": "RevengeOS-3.2-Q-OFFICIAL-rosy-20200611-1346.zip",
+    "datetime": 1595134075.6457572,
+    "filename": "RevengeOS-3.2-Q-OFFICIAL-rosy-20200719-0308.zip",
     "id": "",
-    "size": "615207719",
-    "url": "https://gensho.ftp.acc.umu.se/mirror/osdn.net/storage/g/r/re/revengeos/rosy/RevengeOS-3.2-Q-OFFICIAL-rosy-20200611-1346.zip",
+    "size": "573916743",
+    "url": "https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Frosy%2FRevengeOS-3.2-Q-OFFICIAL-rosy-20200719-0308.zip",
     "version": "3.2",
-    "filehash": "8ac6a6f56f80c9ed611d959ab7294373"
+    "filehash": "d7def5c655068315f4873792e6ff7650"
 }
