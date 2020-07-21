@@ -1,6 +1,6 @@
-Fixed Fod not registered for some users.
-Fixed whatsapp voice call mic issues.(Thanks to @officialpro)
-Kernel upstream to 4.9.230
+Latest Revenge source.
+Fixed wifi display(Miracast).
+Fixed bt audio by default.
+Kernel upstream with latest caf tag.
 Kernel compiled with clang 11.0.3
-Switched to AOSP SurfaceFlinger.(More smooth now)
-Improved performance.
+More improvements & smoothness.
