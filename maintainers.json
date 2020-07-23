@@ -97,6 +97,15 @@
         "telegram": "Giovix92",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-revengeos-3-0-lavender-t4027781"
     },
+	
+    "cepheus":
+    {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Mi 9",
+        "maintainer": "Giovix92",
+        "telegram": "Giovix92",
+        "xda_thread": ""
+    },
 
     "rolex":
     {
