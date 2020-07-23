@@ -1,1 +1,1 @@
-Fixed bootloop issue with 3rd party root
+* Build btconfigstore from source
