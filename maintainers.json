@@ -170,7 +170,7 @@
         "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-revengeos-3-2-t4067011"
     },
 
-     "X00T":
+    "X00T":
     {
         "brand": "ASUS",
         "name": "ASUS Zenfone Max Pro M1",
@@ -179,7 +179,7 @@
         "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-revengeos-3-1-x00t-d-t4035501"
     },
 
-     "oneplus3":
+    "oneplus3":
     {
         "brand": "OnePlus",
         "name": "OnePlus3",
@@ -188,7 +188,7 @@
         "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-revengeos-2-4-oneplus3-3t-t3941301"
     },
 
-     "curtana":
+    "curtana":
     {
         "brand": "Redmi",
         "name": "Redmi Note 9S",
@@ -197,7 +197,7 @@
         "xda_thread":""
     },
 
-     "ginkgo":
+    "ginkgo":
     {
         "brand": "Xiaomi",
         "name": "Redmi Note 8",
@@ -206,7 +206,7 @@
         "xda_thread":"https://forum.xda-developers.com/redmi-note-8/development/rom-revengeos-3-0-redmi-note-8-8tginkgo-t4132113"
     },
         
-         "beryllium":
+    "beryllium":
     {
         "brand": "Poco",
         "name": "Poco F1",
@@ -215,7 +215,7 @@
         "xda_thread": ""
     },
     
-         "riva":
+    "riva":
     {
         "brand": "Xiaomi",
         "name": "Redmi 5A",
@@ -224,14 +224,14 @@
         "xda_thread": ""
     },
 	
-	  "phoenix":
+    "phoenix":
     {
         "brand": "Poco",
         "name": "Poco X2",
         "maintainer": "HaroonHarish",
         "telegram": "harooo0913",
         "xda_thread": ""
-},
+    },
     
     "breeze":
     {
