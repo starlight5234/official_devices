@@ -1,7 +1,11 @@
-Fixed FMRadio
-Improved gps accuracy
-Updated perf configs
-Updated carrier config
-Fixed more ram usage
-Made UI more smooth
-More fixes/updates :)
+Fixed volume not being adjusted during call on speaker
+Fixed mic issues
+Fixed noise during calls
+Enhanced audio
+Optimised app opening speed 
+Fixed call recording
+Fixed recorder 
+Fixed low network issues 
+Fixed issues with time daemon
+Switched to coral fingerprint
+More fixes and improvisations here and there
