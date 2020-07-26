@@ -1,3 +1,4 @@
+Aggressive battery saving
 Redesigned Volume dialog with quick player (rolling out on selected devices)
 July security patches
 QTI bluetooth stack
