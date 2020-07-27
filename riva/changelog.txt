@@ -1,1 +1,15 @@
-Initial Official build
+enable zygote preforking 
+Set zRam disk size to 50% of RAM size. 
+Make UI Smoother
+Update post boot
+Enable YouTube 1080p
+Add props to improve Battery Backup
+enable zygote preforking 
+Better Memory Management
+Improve Touch 
+More fixes
+Use Coral fp & upstreamed to july patch
+Cleaned up tree
+
+
+Notes : Use WeebGapps or NikGapps
