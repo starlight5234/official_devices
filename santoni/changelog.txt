@@ -1,6 +1,15 @@
-Fixed network speed indicator and data usage
-Xiaomi add-ons removed for now
-Switched to Thermal v1.0
-Fixed Goodix wakeup issues
-Switched to pure CAF kernel
-Updated props and misc. improvements
+Kernel: 4.9.226 pure caf Q tag
+Updated blobs from onc-q
+Moved QMI/Radio/IMS blobs to product
+Updated perf configs from pine-q
+Fixed VoLTE issues on 2nd SIM slot
+Enable zygote pre-forking (faster app launching)
+Re-enabled Hotword detection
+Fixed Fingerprint to wake without lock screen
+Misc. audio i/o improvements
+Fixed few denials
+Enabled IWLAN overlays
+Enabled fast WLAN BSS transition
+Change cpu sets for camera daemon 
+Tune Spectrum profiles
+Misc. Fixes
