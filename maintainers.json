@@ -231,5 +231,14 @@
         "maintainer": "FlashKiller",
         "telegram": "FlashKillerV2",
         "xda_thread": ""
+    },
+    
+    "vince":
+    {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi 5 Plus",
+        "maintainer": "Starlight",
+        "telegram": "star2834",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/aosp-rom-revengeos-3-0-xiaomi-redmi-t4139767"
     }
 }
